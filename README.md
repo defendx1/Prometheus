@@ -1,6 +1,6 @@
 # Prometheus Monitoring Stack Installation Script
 
-![Prometheus Logo](https://prometheus.io/assets/prometheus_logo_grey.svg)
+![Prometheus Logo](https://prometheus.io/_next/static/media/prometheus-logo.7aa022e5.svg)
 
 A comprehensive automated installation script for deploying Prometheus monitoring and alerting platform with AlertManager, Node Exporter, Nginx reverse proxy, and SSL certificates.
 
